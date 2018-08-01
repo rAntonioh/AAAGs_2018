@@ -11,3 +11,12 @@ networkx
 goatools
 matplotlib
 biopython
+pygraphviz
+future
+xmltodict
+visualisedictionary
+terminaltables
+ftplib
+gzip
+collections
+math

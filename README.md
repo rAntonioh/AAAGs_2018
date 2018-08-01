@@ -51,3 +51,7 @@ Info: Applying f and D statistics using the ADMIXTOOLS package to infer populati
 Topics:  Data Visualization in R   
 Instructor: Dr. Genevieve Housman (University of Chicago)  
 Info: Basics of Visualizing Data in R using ggplot2 and Gviz 
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rAntonioh/AAAGs_2018/master)
+
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/rAntonioh/AAAGs_2018/master
