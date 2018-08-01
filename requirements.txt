@@ -1,0 +1,12 @@
+pytest
+pandas
+numpy
+scipy
+nose
+xlsxwriter
+statsmodels
+xlrd
+docopt
+networkx
+goatools
+matplotlib
