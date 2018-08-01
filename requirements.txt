@@ -16,7 +16,6 @@ future
 xmltodict
 visualisedictionary
 terminaltables
-ftplib
 gzip
 collections
 math
