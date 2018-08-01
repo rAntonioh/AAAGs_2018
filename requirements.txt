@@ -12,7 +12,3 @@ goatools
 matplotlib
 biopython
 pygraphviz
-future
-xmltodict
-visualisedictionary
-terminaltables
