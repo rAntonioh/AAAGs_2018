@@ -11,4 +11,3 @@ networkx
 goatools
 matplotlib
 biopython
-pygraphviz
