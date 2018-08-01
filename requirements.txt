@@ -16,6 +16,3 @@ future
 xmltodict
 visualisedictionary
 terminaltables
-gzip
-collections
-math
