@@ -10,3 +10,4 @@ docopt
 networkx
 goatools
 matplotlib
+biopython
