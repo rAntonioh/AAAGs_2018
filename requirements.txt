@@ -1,4 +1,5 @@
 future
+pysb
 pytest
 pandas
 numpy
