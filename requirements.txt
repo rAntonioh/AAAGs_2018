@@ -1,5 +1,6 @@
 future
 pysb
+xmltodict
 pytest
 pandas
 numpy
