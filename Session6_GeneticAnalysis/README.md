@@ -25,7 +25,7 @@
 ##### Prerequisites:
 1. Create a free account on http://www.pythonanywhere.com
 2. Under Accounts, click the "teacher" tab and add "**rah**"" as your teacher.
-3. ***NB!*** This code is written for Python3.6, compatability has not been tested.
+3. ***NB!*** This code is written for Python3.6, compatibility has not been tested.
 
 ##### Background:
 - Multicellular organisms are a form of complex life which develop from a single cell zygote to adult, under the control of the same DNA genome. Basic cellular processes include:

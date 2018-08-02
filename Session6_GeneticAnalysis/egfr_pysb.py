@@ -42,7 +42,10 @@ t = [0, 10, 20, 30, 40, 50, 60]
 solver = Solver(model, t)
 solver.run()
 print(solver.y[:, 1])
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+
 plt.plot(solver.y)
 # plt.show()
 plt.savefig('egfr_observables.png')
