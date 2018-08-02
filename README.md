@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rAntonioh/AAAGs_2018/master)
-
 #AAAGs
 2018 AAAGs Bioinformatics Workshop Repository  
 August 1-3, 2018  
@@ -8,12 +6,12 @@ University of Buffalo
 **Session 1**  
 Topics: Task Automation - Version Control with Git  
 Instructor: Dr. Joanna Malukiewicz (German Primate Center, Instituto Adolfo Lutz, Universidade Federal do Vale São Franciso)  
-Info: Introduction to command line, version control, and automation. 
+Info: Introduction to command line, version control, and automation.
 
 **Session 2**  
 Topics: The Basics of Read Mapping and Variant Calling  
 Instructor: Dr. Tim Webster (Arizona State University and University of Utah)  
-Info: Introduction to sequencing reads (fastq files), read mapping (SAM/BAM files), and variant calling (VCF files). 
+Info: Introduction to sequencing reads (fastq files), read mapping (SAM/BAM files), and variant calling (VCF files).
 Topics also include read trimming and quality control, duplicate removal, and BAM file analysis and exploration. Run alignment pipeline starting with a raw fastq file and producing a raw VCF file.  
 
 **Session 3**  
@@ -24,7 +22,7 @@ Output data details: Filtered VCF files, SNP density, Fst, Tajima's D.
 Run variant filtering and analysis pipeline starting with a raw VCF file and producing population genetic metrics from a filtered VCF.
 
 **Session 4**  
-Topics:  Data Management in R 
+Topics:  Data Management in R
 Instructor: Dr. Ellen Quillen (Wake Forest University)  
 Info: Basics of manipulating data in Tidy R, Tidyverse, Bioconductor, etc.  
 
@@ -52,5 +50,4 @@ Info: Applying f and D statistics using the ADMIXTOOLS package to infer populati
 **Session 9**  
 Topics:  Data Visualization in R   
 Instructor: Dr. Genevieve Housman (University of Chicago)  
-Info: Basics of Visualizing Data in R using ggplot2 and Gviz 
-
+Info: Basics of Visualizing Data in R using ggplot2 and Gviz
