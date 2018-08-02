@@ -10,38 +10,52 @@
 ##### Workshop:
 - This is an interactive and guided workshop in three parts.
   1. Introduction
+
   2. Part 1. Source of variation and innovation.
+
   3. Part 2. Molecular genetic and genomic modeling of mutations.
+
   4. Part 3. Gene Ontology Enrichment Analysis
 
 ##### Learning Objectives:
 - After attending this workshop, you will be able to:
   1. Explain how mutations are sources of variation in evolution & development.
+
   2. Create queries to NCBI for gene specific data.
-  2. Simulate gene regulatory dynamics.
-  3. Model molecular interactions.
-  4. Perform a basic GO analysis.
+
+  3. Simulate gene regulatory dynamics.
+
+  4. Model molecular interactions.
+
+  5. Perform a basic GO analysis.
 
 ##### Prerequisites:
 1. Create a free account on http://www.pythonanywhere.com
+
 2. Under Accounts, click the "teacher" tab and add "**rah**"" as your teacher.
+
 3. ***NB!*** This code is written for Python3.6, compatibility has not been tested.
 
 ##### Background:
 - Multicellular organisms are a form of complex life which develop from a single cell zygote to adult, under the control of the same DNA genome. Basic cellular processes include:
   1. Proliferation
+
   2. Differentiation into types
 
 - The evolution of development studies how genomic mutations affect the changes in cellular complexity under stabilizing selection. For example, how do organisms evolve:
   1. Innovative and/or adaptive traits
+
   2. Increased mutational variation
+
   3. Gene network robustness against perturbation
 
 ##### Setup:
 - To start to characterize how different mutations in genes affect the evolution of robustness in genomes of multicellular organisms we need to get things ready:
 - Navigate to your Dashboard on http://www.pythonanywhere.com
   1. Open a bash console
+
   2. Make sure you are in your /home/username directory
+
   3. View file contents:
 
     <code>ls -lh</code>
@@ -51,7 +65,9 @@
     <code>./install.sh</code>
 
   5. To test the installation go to your Files tab
+
   6. Open the epas1_biopython.py in the editor
+
   7. Read the code and run **once** in the console
 
 ### Part 1. Source of variation and innovation:
@@ -61,9 +77,13 @@
 #### Instructions
 - GRN modeling
   1. Navigate to https://mybinder.org/v2/gh/rAntonioh/AAAGs_2018/master
+
   2. Wait for the server to build.
+
   3. Enter Session6-GeneticAnalysis
+
   4. Start the GRN Model for AGAR-2018.ipynb Jupyter notebook by clicking it.
+
   5. After running the notebook, perform the Tasks.
 
 ### Part 2. Molecular genetic and genomic modeling of mutations:
